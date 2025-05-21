@@ -13,6 +13,7 @@ Home of my open source code, including the Loom framework (coming soon).
 
 ## Libraries & Packages
 
-| Package                                                                         | Description                                                                                           | Version |
-|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
-| [`loomsoftware/http-component`](https://github.com/LoomSoftware/http-component) | A PSR compliant HTTP Request/Response component.                                                      | 1.0.2   |
+| Package                                                                                                         | Description                                                 | Version |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------|
+| [`loomsoftware/http-component`](https://github.com/LoomSoftware/http-component)                                 | A PSR compliant HTTP Request/Response component.            | 1.0.2   |
+| [`loomsoftware/dependency-injection-component`](https://github.com/LoomSoftware/dependency-injection-component) | A PSR compliant dependency injection container and manager. | 1.0.5   |
